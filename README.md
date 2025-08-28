@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Jaramillo  
 
-<!--
-**JuanJaramillo12004/JuanJaramillo12004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador apasionado por la tecnología y la creación de soluciones web eficientes y escalables.  
+Me gusta aprender nuevas herramientas y mejorar mis habilidades día a día.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+- **Lenguajes:** TypeScript | JavaScript | HTML | CSS  
+- **Frameworks & Librerías:** Tailwind CSS  
+- **Bases de datos & Backend:** MongoDB | Firebase  
+
+---
+
+## 📊 GitHub Stats
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroperez&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Actualmente
+- Aprendiendo más sobre **Next.js** y **arquitectura frontend moderna**.  
+- Explorando mejores prácticas en **despliegue y bases de datos**.  
+
+---
+
+## 📫 Conéctate conmigo
+- ✉️ Email: tuemail@example.com  
+- 🌐 Portafolio: [Mi Portafolio](https://tuportafolio.com)  
+- 💼 LinkedIn: [Mi LinkedIn](https://linkedin.com/in/tuusuario)  
+
+---
+✨ _Siempre en busca de nuevos retos y oportunidades para crecer como desarrollador._
