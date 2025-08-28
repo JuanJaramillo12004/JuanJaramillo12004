@@ -7,26 +7,26 @@ Me gusta aprender nuevas herramientas y mejorar mis habilidades día a día.
 
 ## 🚀 Tecnologías y Herramientas
 - **Lenguajes:** TypeScript | JavaScript | HTML | CSS  
-- **Frameworks & Librerías:** Tailwind CSS  
-- **Bases de datos & Backend:** MongoDB | Firebase  
+- **Frameworks & Librerías:** ReactJS | Tailwind CSS  
+- **Bases de datos & Backend:** MongoDB | Firebase | NodeJS
 
 ---
 
 ## 📊 GitHub Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroperez&show_icons=true&theme=radical)  
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJaramillo12004&show_icons=true&theme=radical)  
 
 ---
 
 ## 🌱 Actualmente
-- Aprendiendo más sobre **Next.js** y **arquitectura frontend moderna**.  
-- Explorando mejores prácticas en **despliegue y bases de datos**.  
+- Aprendiendo más sobre **arquitectura frontend moderna**.  
+- Explorando mejores prácticas en **despliegue, backend y bases de datos**.  
 
 ---
 
 ## 📫 Conéctate conmigo
-- ✉️ Email: tuemail@example.com  
-- 🌐 Portafolio: [Mi Portafolio](https://tuportafolio.com)  
-- 💼 LinkedIn: [Mi LinkedIn](https://linkedin.com/in/tuusuario)  
+- ✉️ Email: juan.e.jara12004@gmail.com  
+- 🌐 Portafolio: [Mi Portafolio](https://jaramillo-portfolio.vercel.app)  
+- 💼 LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/juan-eduardo-jaramillo-guerrero-5996b3267)  
 
 ---
 ✨ _Siempre en busca de nuevos retos y oportunidades para crecer como desarrollador._
