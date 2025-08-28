@@ -1,23 +1,23 @@
-<!-- Banner superior -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Hola, soy Juan Jaramillo" width="800"/>
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Hi, I'm Juan Jaramillo" width="800"/>
 </p>
 
-<h1 align="center">👋 Hola, soy Juan Jaramillo</h1>
+<h1 align="center">👋 Hi, I'm Juan Jaramillo</h1>
 <p align="center">
-  💻 Desarrollador apasionado por la tecnología y la creación de soluciones web eficientes y escalables.  
-  Me gusta aprender nuevas herramientas y mejorar mis habilidades día a día. 🚀
+  💻 Developer passionate about technology and building efficient and scalable web solutions.  
+  I enjoy learning new tools and improving my skills every day. 🚀
 </p>
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Technologies & Tools
 <p align="center">
-  <!-- Lenguajes -->
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-  <!-- Backend y DB -->
+  <!-- Backend & DB -->
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
 </p>
 
@@ -31,19 +31,19 @@
 
 ---
 
-## 🌱 Actualmente
-- Aprendiendo más sobre **arquitectura frontend moderna** ⚛️  
-- Explorando mejores prácticas en **despliegue, backend y bases de datos** ☁️  
+## 🌱 Currently Learning
+- Diving deeper into **modern frontend architecture** ⚛️  
+- Exploring best practices in **deployment, backend, and databases** ☁️  
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 <p align="center">
   <a href="mailto:juan.e.jara12004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://jaramillo-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/juan-eduardo-jaramillo-guerrero-5996b3267">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,4 +52,4 @@
 
 ---
 
-✨ _Siempre en busca de nuevos retos y oportunidades para crecer como desarrollador._
+✨ _Always looking for new challenges and opportunities to grow as a developer._
