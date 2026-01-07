@@ -13,20 +13,16 @@
 
 ## 🚀 Technologies & Tools
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-  <!-- Backend & DB -->
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JuanJaramillo12004&show_icons=true&theme=algolia" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuanJaramillo12004&layout=donut&theme=algolia" height="180" width="330"/>
+  <img src="https://raw.githubusercontent.com/JuanJaramillo12004/JuanJaramillo12004/main/github-metrics.svg" />
 </p>
 
 ---
