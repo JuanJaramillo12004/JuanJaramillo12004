@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanJaramillo12004&show_icons=true&theme=algolia&count_private=true&cache_seconds=7200" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia&count_private=true&cache_seconds=7200" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJaramillo12004&layout=donut&theme=algolia&cache_seconds=7200" height="180" width="330"/>
 </p>
 
