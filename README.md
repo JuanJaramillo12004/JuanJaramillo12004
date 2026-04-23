@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase" />
 </p>
 
 ---
